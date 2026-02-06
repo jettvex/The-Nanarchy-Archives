@@ -8,6 +8,9 @@ Exclusion//Zone (ExZo)
 
 They’re here because I want them to be easy to access, easy to use, and easy to share.
 
+If you are here for the Weapons of Mass Dysfunction Ruleset, the most recent version is 0.4.0b.
+Click <a hrefe="https://github.com/jettvex/The-Nanarchy-Archives/blob/main/Ruleset_v0.4.0.pdf">>Here<</a> to download it.
+
 License / What you’re allowed to do
 This repository is released under The Unlicense.
 That means, legally speaking, this work is effectively public domain.
